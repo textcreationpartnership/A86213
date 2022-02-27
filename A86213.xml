@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heraclitus dream.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86213</idno>
+            <idno type="STC">Wing H1489</idno>
+            <idno type="STC">Thomason 669.f.6[89]</idno>
+            <idno type="STC">ESTC R212544</idno>
+            <idno type="EEBO-CITATION">99871151</idno>
+            <idno type="PROQUEST">99871151</idno>
+            <idno type="VID">160950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86213)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f6[89])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heraclitus dream.</title>
+                  <author>Marshall, William, fl. 1617-1650, engraver.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Spencer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "When powerfull sleep had in his numming span,".</note>
+                  <note>A satire on the Church of England.</note>
+                  <note>With an engraving signed: W.M. [i.e. William Marshall] sculpsit.</note>
+                  <note>Includes: The author's intent and meaning by this dream; so called, because it took him in bed, meditating on Zach. 13.12.</note>
+                  <note>Annotation on Thomason copy: "Printed at London nouemb: the 9th 1642.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Poetry --  Early works to 1800.</term>
+               <term>Church of England --  Humor --  Early works to 1800.</term>
+               <term>Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:160950:1" rendition="simple:additions"/>
+            <lg>
+               <l>The <hi>Flocke</hi> that was wont to be shorne by the <hi>Herd,</hi>
+               </l>
+               <l>Now polleth the <hi>Shepherd</hi> in ſpight of his <hi>Beard</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <div type="poem">
+               <head>HERACLIT<g ref="char:V">Ʋ</g>S Dream.</head>
+               <l>WHen powerfull ſleep had in his numming ſpan,</l>
+               <l>Seized the Watch-men of the Iſle of man,</l>
+               <l>Sick with beholding the worlds vanity,</l>
+               <l>Hoping in ſleep to finde ſome ſanity;</l>
+               <l>
+                  <hi>Morpheus</hi> preſents my fancy with a Theam.</l>
+               <l>To work on, which may prove onely a Dream,</l>
+               <l>Methought I walked in a goodly Plain,</l>
+               <l>Like to <hi>Theſſalian Tempe,</hi> where amain</l>
+               <l>The Flocks were wont to feed, the jolly Herd</l>
+               <l>To pipe, the while neither of ought afeard.</l>
+               <l>Here did I ſee a very uncouth ſight,</l>
+               <l>Which did my 'mazed minde ſomewhat affright,<note place="margin">A</note>
+               </l>
+               <l>Upon a hill there ſate a Shepherd Swain;</l>
+               <l>His hands faſt bound, and from his eyn did rain</l>
+               <l>A ſhower of tears, to ſee his ſilly Sheep</l>
+               <l>So mad to wrong him, who themſelves did keep;</l>
+               <l>For they did poll his head, and clipt his chin,</l>
+               <l>Becauſe 'twas long ſince he had polled bin:</l>
+               <l>They being ſhorn once a yeer, could finde no reaſon</l>
+               <l>But he might be poll'd too in a hot Seaſon.</l>
+               <l>'Twas a mad Flock methought; they had ſurely eat</l>
+               <l>
+                  <hi>Melampod, Wolfe-bane,</hi> or ſuch poyſonous meat,</l>
+               <l>Which made them rave: If he but ſtirr'd to riſe,</l>
+               <l>Both Ram, and Lamb, and Ewe us'd batteries,<note place="margin">B</note>
+               </l>
+               <l>To keep him down: <hi>Melampus</hi> runs away:<note place="margin">C</note>
+               </l>
+               <l>The <hi>Bell-Wether's</hi> ty'd up; he'd ſpoyl the play.<note place="margin">D</note>
+               </l>
+               <l>His Crook is broke, his <hi>Anchor-mark</hi> thrown by,<note place="margin">E</note>
+               </l>
+               <l>All hold, all hope of them they now deny.</l>
+               <l>His <hi>Tarre-box</hi> hath no uſe, they'll not be ſmear'd<note place="margin">F</note>
+               </l>
+               <l>Nor Tarr'd, nor told, for they be not afeard</l>
+               <l>Of Flyes, or Maggots, they can cure themſelves;</l>
+               <l>Who would have thought Sheep were ſuch peeviſh elves?</l>
+               <l>The Shepherd may go whiſtle with his fiſt,</l>
+               <l>And Pipe; but they will ramble as they liſt:</l>
+               <l>The whisking Sling with which he wont to ſcare</l>
+               <l>With humming ſtones, the Lion and the Bear,</l>
+               <l>The <hi>Leopard, Fox, Wolfe,</hi> and all Beaſts of prey,</l>
+               <l>Ere they came neer his Flock, now ſtands in ſtay;</l>
+               <l>But for a Scare-Crow, and himſelf may ſtarve,</l>
+               <l>If Bag and Bottle cannot his turn ſerve.</l>
+               <l>The watled Folds broke down, that Whilom kept</l>
+               <l>The couching Sheep in ſafety while they ſlept:</l>
+               <l>And all this ſtir was for a lock of Wool,</l>
+               <l>Which Shepherds yeerly from their coats do pull.</l>
+               <l>O ſilly Sheep, and Flock perverſe! ſaid I,</l>
+               <l>Who to ſave Fleece, will in the Shambles die:</l>
+               <l>For if the Shepherd will you not defend,</l>
+               <l>The Butcher, or wilde Beaſt will be your end.<note place="margin">G</note>
+               </l>
+               <l>I lookt for ſome to help, but there was none:</l>
+               <l>I ſaw a Shepherd who did ſigh and grone,<note place="margin">H</note>
+               </l>
+               <l>With wondring, weeping looks; two Satyres jeer;<note place="margin">I</note>
+               </l>
+               <l>Two Shepherds (which did ill become them) fleer;<note place="margin">K</note>
+               </l>
+               <l>Some Sheep did graze, and ſome did gaze whilers<note place="margin">L</note>
+               </l>
+               <l>At this ſad ſight. Thoſe Shepherds I accoaſt,</l>
+               <l>Who penſive ſeem'd, as if a friend were loſt,</l>
+               <l>And them ſaluted thus, Hail Shepherd Swains,</l>
+               <l>That ſeed your Flocks upon theſe verdant Plains:</l>
+               <l>Why help you not you wofull wight diſtreſt,</l>
+               <l>And made the ſcorn of every ſimple beaſt?</l>
+               <l>Friend, quoth the one, that others wrongs doſt mone,</l>
+               <l>If thou a Shepherd be, look to thine own;</l>
+               <l>For Sheep grown manniſh, maddiſh by a weed,</l>
+               <l>Sown by you Shepherds 'mongſt their wholſome feed,</l>
+               <l>Who laugh to ſee the work which they have wrought,</l>
+               <l>Bring Shepherds and their Flocks and all to nought.</l>
+               <l>But what care they if the mad Sheep rebell</l>
+               <l>Againſt their Shepherds, ſo themſelves fare well;</l>
+               <l>For they can Fleece them more then once a yeer,</l>
+               <l>And oft with Muttons make themſelves good cheer;</l>
+               <l>Feeding their Flocks ſtill with the ranker graſſe,</l>
+               <l>Which rots them, though a while it makes them paſſe</l>
+               <l>For goodly great ones; yet grow worſe and worſe,</l>
+               <l>And never will be cur'd by Shepherds purſe,</l>
+               <l>Though ſome do hold ſo, nor by Shepherds pains,</l>
+               <l>Except great <hi>Pan</hi> with herb Grace cure their brains:</l>
+               <l>We gladly would aſſay to ſet him free,</l>
+               <l>But that for evill eyes which we do ſee</l>
+               <l>Set on our Flocks, to drive them quite away,</l>
+               <l>Or to make them and us a common prey</l>
+               <l>To <hi>Sylvans, Satyres,</hi> wilde beaſts of the Wood,<note place="margin">M</note>
+               </l>
+               <l>Or to ſome Shepherds that ne'er watcht for good;</l>
+               <l>But how to ſet diſſention 'twixt the Flock,</l>
+               <l>Or to rob Shepherds of <hi>Pans</hi> down and ſtock.</l>
+               <l>For what hath your Herd done to be abuſed,</l>
+               <l>Except's for doing what good Shepherds uſed?</l>
+               <l>What did his yeerly polling you diſpleaſe,</l>
+               <l>What he clips off, if on, 'twould breed diſeaſe?</l>
+               <l>Or elſe you'ld hang your locks on every buſh;</l>
+               <l>Some clip you cloſer, whom you never puſh;</l>
+               <l>Or is't becauſe his <hi>Crook</hi> did ſeldome fail</l>
+               <l>To catch and pull the Brambles from your tail?</l>
+               <l>Or are you angry at his <hi>Anchor mark,</hi>
+               </l>
+               <l>Which gave him hope to finde you, ſave i'th dark?</l>
+               <l>Or at his <hi>Tarre-box</hi> doth your paſſion riſe,</l>
+               <l>Becauſe it cur'd your Fly-blown maladies?</l>
+               <l>Or did he pipe plain Song, without Diviſion,</l>
+               <l>Good ſober Muſick, cauſing no deriſion?</l>
+               <l>Or did his rapid <hi>Sling</hi> offend your ears,</l>
+               <l>Though whirling ſtones delivered you from fears?</l>
+               <l>If theſe were all his faults, forbear for ſhame,</l>
+               <l>Unbinde your Shepherd, and redeem your fame;</l>
+               <l>Leſt <hi>Pan,</hi> the Shepherds god, who loves no fray,</l>
+               <l>Leave you to thoſe that watch but for a prey.</l>
+               <l>With that it thundred, and a voice I knew,</l>
+               <l>Said, <hi>If you will ſmite theſe, I'll ſcatter you.</hi>
+               </l>
+               <l>Which words (I waking) wiſht to thoſe that hate</l>
+               <l>The <hi>Churches</hi> Peace, and Weal of ENGLANDS State.</l>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>London,</hi> Printed for <hi>John Spencer.</hi> 164<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </div>
+            <div type="interpretation">
+               <head>The AUTHOR's Intent and Meaning by this <hi>DREAM;</hi> So called, becauſe it took him in Bed, meditating on ZACH. 13. 12.</head>
+               <p>HE calls it <hi>HERACLITUS Dream,</hi> becauſe it came in dolefull Meditations. <hi>Heraclitus</hi> uſed to weep much. The <hi>Shepherd polled,</hi> ſignifieth Miniſters clipped of their good Name, Fame, and Means by rude people, without Authority, Law, or Reaſon; and therefore are thought to be ſtirred up by no good Spirit. The <hi>Ram, Ewe,</hi> and <hi>Lamb</hi> butting him, ſhew that ſome of all ſorts, men, women, and children, are ready to abuſe Miniſters. The Inſtruments <hi>Paſtoral</hi> lying bro<g ref="char:EOLhyphen"/>ken and ſcattered, ſheweth, his Miniſtry rejected. The <hi>Bell-Wether tyed up,</hi> ſheweth that exemplary men do ſuſpend their good examples. <hi>Melampod, Wolf<g ref="char:EOLhyphen"/>bane,</hi> are two poyſonous herbs, ſignifying bad doctrine. <hi>Shepherd purſe,</hi> a good Herb, and ſignifies good Do<g ref="char:EOLhyphen"/>ctrine, which yet without Gods grace can do no good. <hi>The Butcher and wilde Beaſts,</hi> ſhew destruction waits upon diſorder. The <hi>laughing Satyres</hi> ſhew that Heathens and Hereticks are glad of the Churches di<g ref="char:EOLhyphen"/>ſtractions. The <hi>ſad Shepherds</hi> ſhew that ſome Di<g ref="char:EOLhyphen"/>vines lay troubles to heart. The <hi>laughing Shepherds</hi> ſhew that others are glad of them. The <hi>Flock gra<g ref="char:EOLhyphen"/>zing,</hi> ſhew ſome people are ſecure. The <hi>Flock gazing,</hi> ſhew how others are amazed. The <hi>Fold broken</hi> ſheweth the rude abuſe of Churches. <hi>Melampus</hi> run<g ref="char:EOLhyphen"/>ning away, ſheweth that M<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttion hides it ſelf.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
